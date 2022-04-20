@@ -1,7 +1,7 @@
-# cluster
+# Clustering Simulation — Architecture Plan Generation
 Grasshopper definition running on Kangaroo to pull together an architecture plan
 
-
+![ClusteringSimulation](https://user-images.githubusercontent.com/77626314/164226263-7d656a55-351b-4ac3-8699-47f173978333.gif)
 
 How to download
 
